@@ -3,3 +3,4 @@ conf/projx.conf
 conf/projx-aliase
 *.sh
 conf/trash
+!conf/*.sh
