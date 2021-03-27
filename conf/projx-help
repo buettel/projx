@@ -1,0 +1,17 @@
+# Aliase Abbreviations
+echo "p - opens production pages https://$DOMAIN
+s - opens staging pages http://$PROJECTNAME.staging-uniteplus.de
+d - opens develop pages http://$PROJECTNAME.agentur-sowhat.test
+"
+echo "local Docker actions
+---
+dev-login  - login into docker container
+dev-theme  - build theme
+dev-cc     - clear cache
+dev-config - show config.php
+dev-logs   - show logs
+"
+echo "readme  - opens project specific docu file"
+echo
+echo "For more help enter morehelp"
+alias morehelp='open https://bitbucket.org/sowhat1/.projx/src/master/README.md'

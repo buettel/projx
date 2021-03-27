@@ -1,0 +1,5 @@
+conf/projx.conf
+.DS_Store
+conf/projx-aliase
+*.sh
+conf/trash
